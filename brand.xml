@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brands>
+    <brand_item>
+        <brand>ams</brand>
+        <category>nams</category>
+        <id>2</id>
+    </brand_item>
+    <brand_item>
+        <brand>amul</brand>
+        <category>milk</category>
+        <id>1</id>
+    </brand_item>
+</brands>
